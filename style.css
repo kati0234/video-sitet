@@ -1,0 +1,31 @@
+body {
+  background-color: #ece3d5;
+  font-family: "Prata", Sans-serif;
+  color: #332828;
+}
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+nav a {
+  font-size: 30px;
+  font-family: "Prata", Sans-serif;
+  color: #332828;
+  display: flex;
+  text-decoration: none;
+  padding: 1em;
+}
+h2 {
+  font-family: "Prata", Sans-serif;
+  color: #332828;
+}
+h1 {
+  font-size: 60px;
+  font-family: common-ligatures;
+  color: #332828;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
