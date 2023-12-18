@@ -29,3 +29,17 @@ h1 {
   justify-content: center;
   align-items: center;
 }
+#baggrundsfoto {
+  background-image: url(billeder/img1.png);
+  background-size: cover;
+  background-color: pink;
+  min-height: 30em;
+  max-width: 100%;
+}
+.over {
+  color: #f86d60;
+  padding-top: 15%;
+  font-size: 80px;
+}
+#baggrundsfoto {
+}
